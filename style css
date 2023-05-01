@@ -1,0 +1,10 @@
+.input {
+    border-radius: 100px; border: 2px solid goldenrod;
+    background-color: blue;padding: 2px 
+    border-radius: 100px; border: 2px solid gold 
+    border-radius: 100px; border: 2px solid gold
+    background-color: blueviolet;padding: 2px
+}
+#btn { 
+    background-color: blueviolet;padding: 100px; border-radius: 100px;
+}
